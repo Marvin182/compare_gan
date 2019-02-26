@@ -61,7 +61,7 @@ You can easily install the library and all necessary dependencies by running:
 ## Running experiments
 
 Simply run the `main.py` passing a `--model_dir` (this is where checkpoints are
-stored) and a `--gin_config` (defies which model on which data set and other
+stored) and a `--gin_config` (defines which model on which data set and other
 options). We provide several example configurations in the `example_configs/`
 folder, namely:
 
